@@ -1,0 +1,19 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "description": "nodejs tutorial package",
+    "main": "1. Что такое NPM.js",
+    "scripts": {
+        "test": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "nodejs",
+        "js"
+    ],
+    "author": "Sergii",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
